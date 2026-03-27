@@ -36,7 +36,6 @@ The analysis follows a sequential notebook-based execution:
 2.  **Input Standardization (`1-make-*-inputs.ipynb`)**: Unique for each dataset. Converts raw data into a counts matrix of format `samples x genes` and a metadata file for the pipeline.
 3.  **Quality Control (`2-sample-QC.ipynb`)**: Normalizes and log compresses counts, 
 then generates sample clustering plots and QC metrics for manual outlier detection. 
- outliers via PCA and correlation clustering.
 4.  **Differential Expression (`3-run-deseq2.ipynb`)**: Uses a Generalized Linear Model (GLM) to identify significant genes.
 5.  **Ortholog Enrichment (`4-ortholog-enrichment.ipynb`)**: Translates model gene IDs to human orthologs and runs a GSEA.
 
