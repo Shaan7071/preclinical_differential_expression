@@ -1,0 +1,15 @@
+Status	/home/gsdeol/dev/mouse-analysis/results/align/H23-142_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-143_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-144_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-145_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-146_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-147_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-148_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-149_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-150_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-151_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-152_Aligned.sortedByCoord.out.bam	/home/gsdeol/dev/mouse-analysis/results/align/H23-153_Aligned.sortedByCoord.out.bam
+Assigned	21449031	20800152	22784846	23272322	22382159	19989107	19903587	20083569	21102913	19369080	22556127	21603823
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	6347807	6487127	6344853	6363860	7205312	5726427	5929068	5792862	6515523	5867850	6719235	6307955
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	3963894	3838008	4055889	4082922	4294315	3451991	3528417	3572039	3680142	3177798	3855232	3941662
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	202132	202457	209173	212204	217471	183823	189375	183386	204697	179006	213723	190531

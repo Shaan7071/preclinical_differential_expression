@@ -1,0 +1,11 @@
+sample,sample_ID,treatment,replicate
+control_rep1,H23-142,control,1
+control_rep2,H23-143,control,2
+control_rep4,H23-145,control,4
+CFA_rep1,H23-146,CFA,1
+CFA_rep2,H23-147,CFA,2
+CFA_rep3,H23-148,CFA,3
+CFA_rep4,H23-149,CFA,4
+CFB_rep1,H23-150,CFB,1
+CFB_rep2,H23-151,CFB,2
+CFB_rep3,H23-152,CFB,3

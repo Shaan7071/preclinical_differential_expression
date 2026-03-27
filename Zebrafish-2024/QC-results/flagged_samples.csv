@@ -1,0 +1,5 @@
+sample,total_reads,library_size,mapping_rate,n_detected_genes,multimapping_rate,absolute_thresholds,relative_thresholds
+BMAA_rep3,35654113,23773774,0.6667891022839356,25449,0.1204011722294143,Pass,low_mapping_rate
+BMAAeda_rep6,25700188,18536313,0.721252039090142,24226,0.1184011961313279,Pass,low_n_detected_genes
+BMAApure_rep2,30028598,20369751,0.6783450562693603,25421,0.140725218007181,Pass,"low_mapping_rate,high_multimapping_rate"
+CTRL_rep2,39329094,27539680,0.7002368272200727,25242,0.1323779286652268,Pass,high_multimapping_rate
