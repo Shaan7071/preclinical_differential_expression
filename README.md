@@ -68,7 +68,7 @@ Note: There are heuristics taken in mapping to human orthologs due to a lack of 
 
 Assigning the same statistics to multiple human genes effectively multiples that gene's signal, inflating the enrichment score for that pathway. For example, a single zebrafish UGT gene maps to 19 human UGT genes. When running the GSEA, the relevant pathway will contain those 19 UGT genes and thus that one fish gene will be inflated. However, because the fish gene is capturing the functions of 19 human genes, it can be interpreted as a faithful representation. Choosing only 1/19 human genes would make that pathway non-significant, when it may be in the zebrafish. For this reason, all human genes were kept.
 
-#### Handling a single human ortholog for multiple fish genes (many-to-one):
+#### Handling a single human ortholog for multiple model organism genes (many-to-one):
 
 GSEA requires a unique rank and score for each gene in its input list, so duplicate human genes must be collapsed. Gene duplication in the zebrafish genome, mainly from the teleost-specific (TS) whole-genome duplication, results in multiple paralogs for a human gene, with the paralogs continuing to evolve and sub-functionalize. Usually, one paralog retains the ancestral role while the other(s) take on other niches (sub-functionalization) or a new role (neofunctionalization). In rare cases, a dosage selection can take place where an additive effect emerges. There are 3 ways to collapse a list of model organism genes into a single human ortholog:
 
