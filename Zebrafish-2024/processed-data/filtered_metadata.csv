@@ -1,6 +1,5 @@
 sample,drug,treatment,replicate,date_collected,batch
 BMAA_rep1,BMAA,pathogenic_control,1,2024-05-08,batch_1
-BMAA_rep2,BMAA,pathogenic_control,2,2024-05-07,batch_2
 BMAA_rep4,BMAA,pathogenic_control,4,2024-05-09,batch_2
 BMAA_rep5,BMAA,pathogenic_control,5,2024-05-07,batch_2
 BMAA_rep6,BMAA,pathogenic_control,6,2024-05-07,batch_2
